@@ -1,0 +1,13 @@
+vhdl xil_defaultlib  \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/129c/hdl/ip/conv_layer_ap_fadd_7_full_dsp_32.vhd" \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/129c/hdl/ip/conv_layer_ap_fcmp_0_no_dsp_32.vhd" \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/129c/hdl/ip/conv_layer_ap_fmul_3_max_dsp_32.vhd" \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/129c/hdl/ip/conv_layer_ap_sitofp_4_no_dsp_32.vhd" \
+"../../../bd/pr_region_2/ip/pr_region_2_conv_layer_0_0/sim/pr_region_2_conv_layer_0_0.vhd" \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/2471/hdl/ip/fc_layer_ap_fadd_7_full_dsp_32.vhd" \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/2471/hdl/ip/fc_layer_ap_fcmp_0_no_dsp_32.vhd" \
+"../../../../pr_region.srcs/sources_1/bd/pr_region_2/ipshared/2471/hdl/ip/fc_layer_ap_fmul_3_max_dsp_32.vhd" \
+"../../../bd/pr_region_2/ip/pr_region_2_fc_layer_0_0/sim/pr_region_2_fc_layer_0_0.vhd" \
+"../../../bd/pr_region_2/ip/pr_region_2_proc_sys_reset_0_0/sim/pr_region_2_proc_sys_reset_0_0.vhd" \
+
+nosort
